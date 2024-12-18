@@ -1,0 +1,11 @@
+Employee_ID,Age,Gender,Department,Role,Job_Level,Years_at_Company,Work_Hours,Satisfaction_Level,Promotion_Last_Year,Attrition
+101,34,Male,IT,Engineer,2,5,45,0.8,1,0
+102,28,Female,Sales,Executive,1,3,40,0.6,0,1
+103,45,Male,HR,Manager,3,12,50,0.7,1,0
+104,32,Female,IT,Engineer,2,4,48,0.5,0,1
+105,50,Male,Finance,Analyst,4,15,40,0.9,1,0
+106,27,Female,Sales,Representative,1,2,38,0.4,0,1
+107,40,Male,IT,Manager,3,10,55,0.7,1,0
+108,29,Female,HR,Assistant,1,3,42,0.6,0,1
+109,35,Male,Finance,Analyst,2,7,45,0.8,0,0
+110,41,Female,IT,Engineer,2,9,50,0.6,1,0
